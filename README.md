@@ -10,9 +10,9 @@ This is a living document and will be kept on GitHub so there is a history of ho
 
 ## About me
 
-I joined RVU in October 2019 as a lead engineer working within the Financial Services team. Prior to my time at RVU I have worked at severval different tech startups, most recently Snyk where I was also a team lead and prior to that I was an Engineering Manager at Beamly.
+I joined Bento in August 2021 as a lead engineer/Associate Engineering Manager. Prior to my time at Gousto I have worked at severval different tech companies, most recently RVU where I was also a team lead.
 
-Outside of work I have a Black Belt in Karate, write lots of little side projects, I love Disney and play video games.
+Outside of work I write lots of little side projects, and enjoy reading. I love playing video games.
 
 ## My role as a team lead
 
