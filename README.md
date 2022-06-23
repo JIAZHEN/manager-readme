@@ -1,4 +1,4 @@
-# Jonathan's Manager Readme
+# Jiazhen's Manager Readme
 
 ## Motivation for this document
 
